@@ -1,5 +1,5 @@
 # aru-counting-sort-py
-Implementation of ARU-Counting-Sort in Python, as in [the paper by Usmani, Asad](https://ieeexplore.ieee.org/document/8966717).
+Implementation of ARU-Counting-Sort in Python, as in [the paper by A.R. Usmani(2019)](https://ieeexplore.ieee.org/document/8966717).
 
 The implementation can be found in aru_counting_sort.py. The comparison between normal counting sort and quick sort can be seen in sort_comparison.ipynb.
 
